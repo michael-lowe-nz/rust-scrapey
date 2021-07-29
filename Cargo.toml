@@ -1,0 +1,10 @@
+[package]
+name = "rusty_hacker"
+version = "0.1.0"
+authors = ["kade killary <kadekillary@protonmail.com>"]
+
+[dependencies]
+reqwest = "0.9"
+select = "*"
+scraper = "*"
+prettytable-rs = "*"
